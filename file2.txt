@@ -1,3 +1,4 @@
 this is file 2.
 adding more data to it.
 Here is a bug fix 1.
+This is from bug-fix branch
