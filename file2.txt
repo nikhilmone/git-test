@@ -2,3 +2,5 @@ this is file 2.
 adding more data to it.
 
 Work done on main1
+Here is a bug fix 1.
+This is from bug-fix branch
